@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Cooking Pasta",
+    "description": "Learn how to cook delicious pasta dishes with these simple recipes and techniques."
+  },
+  {
+    "id": 2,
+    "title": "Exploring the Wonders of Nature",
+    "description": "Discover the beauty of nature and explore breathtaking landscapes around the world."
+  },
+  {
+    "id": 3,
+    "title": "Mastering the Guitar: Beginner to Pro",
+    "description": "Start your journey to becoming a guitar master with these step-by-step lessons and practice routines."
+  },
+  {
+    "id": 4,
+    "title": "The Art of Photography: Capturing Moments",
+    "description": "Learn the fundamentals of photography and unleash your creativity to capture stunning images."
+  },
+  {
+    "id": 5,
+    "title": "Healthy Living: Mind, Body, and Soul",
+    "description": "Discover the keys to living a healthy and balanced life with tips on nutrition, exercise, and mindfulness."
+  },
+  {
+    "id": 6,
+    "title": "Exploring the Universe: Astronomy 101",
+    "description": "Embark on a journey through the cosmos and learn about the wonders of our universe."
+  }
+]

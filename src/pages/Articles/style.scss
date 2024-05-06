@@ -1,0 +1,15 @@
+.articles-page {
+  position: relative;
+
+  .hero {
+    position: relative;
+    border: 1px solid #EEE;
+    height: 400px;
+  }
+
+  .content {
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}

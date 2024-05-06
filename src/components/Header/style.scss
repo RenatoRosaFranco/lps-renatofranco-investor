@@ -1,0 +1,16 @@
+.header {
+  position: inherit;
+
+  .navbar-default {
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #EEE;
+    background-color: #EEE;
+  
+    .navbar-brand {
+      position: relative;
+      font-weight: bold;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+.footer {
+  position: relative;
+  border-top: 1px solid #EEE;
+  padding-top: 30px;
+  padding-bottom: 40px;
+
+  ul {
+    position: relative;
+
+    li {
+      position: relative;
+      margin-right: 15px;
+      
+      i {
+        position: relative;
+        border: 1px solid #EEE;
+        padding: 10px;
+        border-radius: 25px;
+      }
+    }
+  }
+}
